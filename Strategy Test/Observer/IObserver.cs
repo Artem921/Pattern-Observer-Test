@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Strategy_Test
 {
-    public class Exchange : IObservable
+    public interface IObserver
     {
+
+        void MessageAboutTheNewExchangeRate();
     }
 }

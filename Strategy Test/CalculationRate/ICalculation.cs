@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Strategy_Test
 {
-    public class Broker:IObserver
+    public interface ICalculation
     {
+
+        void RateCalculation( double euro=0, double usd = 0);
+
     }
 }
