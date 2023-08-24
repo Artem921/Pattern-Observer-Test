@@ -20,7 +20,7 @@ namespace Strategy_Test
 
         public void MessageAboutTheNewExchangeRate()
         {
-            Console.WriteLine("BROKER");
+            Console.WriteLine("BROKER TINKOFF Investments");
             Console.WriteLine("The exchange rate has burse:");
             burse.CurrentTheExchangeRate();
         }
