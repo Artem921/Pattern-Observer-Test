@@ -20,6 +20,7 @@ namespace Strategy_Test
 
         public void MessageAboutTheNewExchangeRate()
         {
+            Console.WriteLine("NEW ALERT!");
             Console.WriteLine("BANK TINKOFF");
             Console.WriteLine("The exchange rate has burse:");
             burse.CurrentTheExchangeRate();
