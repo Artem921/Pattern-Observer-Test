@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace Strategy_Test
+namespace Observer_Test
 {
     public class Broker : IObserver
     {

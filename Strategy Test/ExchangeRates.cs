@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Strategy_Test
+namespace Observer_Test
 {
     public class ExchangeRates
     {

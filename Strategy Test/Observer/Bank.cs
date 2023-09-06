@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Strategy_Test;
+using Observer_Test;
 
-namespace Strategy_Test
+namespace Observer_Test
 {
     public class Bank : IObserver
     {
