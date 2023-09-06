@@ -1,7 +1,7 @@
 ﻿
 
 using System;
-using Strategy_Test;
+using Observer_Test;
 
 
 public static class Program
